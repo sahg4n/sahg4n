@@ -1,5 +1,5 @@
 ### 👋
-Here to stash and collaborate on awesome stuff.
+Here to stash and collaborate on stuff.
 
 ### Handle
 sahg4n
